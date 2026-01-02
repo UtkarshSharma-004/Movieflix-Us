@@ -96,7 +96,7 @@ function MovieList() {
                   <button
                     className={`mt-4 px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-gradient-to-r from-purple-500 to-pink-500`}
                     onClick={() =>
-                      navigate("/movieinfo", {
+                      navigate(`/movieinfo/${movie.id}`, {
                         state: {
                           id: movie.id,
                           backdrop_path: movie.backdrop_path,
