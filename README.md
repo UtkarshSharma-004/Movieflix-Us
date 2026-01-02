@@ -1,4 +1,4 @@
-🎬 MovieFlix-Us
+# 🎬 MovieFlix-Us
 
 MovieFlix-Us is a modern movie browsing web application that allows users to explore trending movies, popular titles, and detailed movie information with a clean and responsive UI. The project focuses on delivering a smooth user experience using React, Vite, and Tailwind CSS.
 
@@ -19,7 +19,7 @@ MovieFlix-Us is a modern movie browsing web application that allows users to exp
 
 🌐 Deployed on Netlify
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React.js
 
